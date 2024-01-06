@@ -1,6 +1,6 @@
 [![Header](https://github.com/realDaniil/realdaniil/blob/main/assets/Open-A-New-Window.gif)]()
 
-# 👋 I am a beginner Front-End developer
+# 👋 Front-End developer
 
 ## 💻 Tech Stack:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
