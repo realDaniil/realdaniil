@@ -38,7 +38,7 @@
 ### Заходит однажды в бар улитка🐌...
 
 ## Portfolio: 
-### ![Portfolio](https://realdaniil.github.io/portfolio/)
+### [Portfolio](https://realdaniil.github.io/portfolio/)
 
 ## 🌐 Socials:
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realDaniil)
