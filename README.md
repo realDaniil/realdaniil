@@ -28,7 +28,6 @@
 ![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
@@ -38,6 +37,7 @@
 ## 🤝 Soft Skills:
 ### Заходит однажды в бар улитка🐌...
 
+## Portfolio: https://realdaniil.github.io/portfolio/
 
 ## 🌐 Socials:
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realDaniil)
